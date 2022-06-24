@@ -1,2 +1,2 @@
-# contoso-ipmi-oem
+# foobar-ipmi-oem
 OpenBMC IPMI handler example
